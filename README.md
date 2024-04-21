@@ -1,9 +1,9 @@
 # Targeted Voice Separation
 
 ## Team members: 
-1.Aakanksha Desai
-2.Varsha Kini
-3.Vrunda Mange
+1. Aakanksha Desai
+2. Varsha Kini
+3. Vrunda Mange
 
 
 ## Abstract:
